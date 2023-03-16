@@ -6,6 +6,10 @@
     padding:10px 10px;
     margin:auto;
 }
+header {
+    height:100vh;
+    position: relative;
+}
 /*
 .new-list1 {
     text-align: center;
@@ -31,7 +35,9 @@
     background-color: #e4e4e4;
 }
 
-
+.fav-styled {
+    padding: 15px 15px;
+}
 
 .footer-1 {
     box-sizing: border-box;
